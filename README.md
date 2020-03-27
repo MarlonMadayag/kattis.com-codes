@@ -1,2 +1,2 @@
 # kattis.com-codes
-Problems solve in kattis.com uaing java
+Problems solve in kattis.com using java
